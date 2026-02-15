@@ -23,7 +23,7 @@ repository               : "Ujjwal-Nigam/Ujjwal-Nigam.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "backgroun.jpg"
   name             : "Ujjwal Nigam"
   pronouns         : "He/him"  
   bio              : "Undergraduate economics/mathematics and politics student."
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : "lo.ki153"
   lastfm           : # Username
-  linkedin         : "Ujjwal Nigam"
+  linkedin         : "Ujjwal-Nigam"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
