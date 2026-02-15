@@ -24,7 +24,7 @@ repository               : "Ujjwal-Nigam/Ujjwal-Nigam.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Ujjwal NIgam"
+  name             : "Ujjwal Nigam"
   pronouns         : "He/him"  
   bio              : "Undergraduate economics/mathematics and politics student."
   location         : "San Jose, CA"
@@ -57,16 +57,16 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "lo.ki153"
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "Ujjwal Nigam"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -74,7 +74,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : "ekolai2"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
