@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-<p>Last Updated: 5/13/2026 </p>
-<a href="https://github.com/Ujjwal-Nigam/Ujjwal-Nigam.github.io/files/Ujjwal_Nigam_Resume%20(1).pdf">Resume PDF</a>
+<p>Last Updated: 10/21/2026 </p>
+<a href="https://github.com/Ujjwal-Nigam/files/Ujjwal_Nigam_Resume (1).pdf">Resume PDF</a>
